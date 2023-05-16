@@ -1,3 +1,2 @@
 # Карина
-### Сайт для бьюти бара browow 
-[перейти](https://daniilshat.ru/)
+### Сайт для бьюти бара browow [перейти](karinasekretno.github.io/BrowowSite/)
